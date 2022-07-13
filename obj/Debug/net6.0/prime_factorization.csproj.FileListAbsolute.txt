@@ -1,0 +1,15 @@
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\bin\Debug\net6.0\prime_factorization.exe
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\bin\Debug\net6.0\prime_factorization.deps.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\bin\Debug\net6.0\prime_factorization.runtimeconfig.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\bin\Debug\net6.0\prime_factorization.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\bin\Debug\net6.0\prime_factorization.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\obj\Debug\net6.0\prime_factorization.csproj.AssemblyReference.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\obj\Debug\net6.0\prime_factorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\obj\Debug\net6.0\prime_factorization.AssemblyInfoInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\obj\Debug\net6.0\prime_factorization.AssemblyInfo.cs
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\obj\Debug\net6.0\prime_factorization.csproj.CoreCompileInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\obj\Debug\net6.0\prime_factorization.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\obj\Debug\net6.0\refint\prime_factorization.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\obj\Debug\net6.0\prime_factorization.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\obj\Debug\net6.0\prime_factorization.genruntimeconfig.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\prime_factorization\prime_factorization\obj\Debug\net6.0\ref\prime_factorization.dll
